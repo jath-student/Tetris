@@ -1,0 +1,68 @@
+Just finished creating gd
+About to create preview
+done create preview
+draw level
+About to create preview
+done create preview
+draw level
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+100
+About to colour a cell
+500
+About to colour a cell
+500
+About to colour a cell
+500
+About to colour a cell
+500
+About to colour a cell
+500
+About to colour a cell
+500
+About to colour a cell
+500
+About to colour a cell
+500
+---------------------------------
+       | High Score:     0 |
+       --------------------
+Level:    0           Level:    0
+Score:    0           Score:    0
+-----------           -----------
+                                 
+                                 
+                       SS        
+IIII                  SS         
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+-----------           -----------
+Next: 			 Next:
+J   			    SS 
+JJJ 			   SS  
+Enter your command: 

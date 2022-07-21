@@ -47,7 +47,7 @@
   </div>
   <!-- project description -->
     <p>
-    A multiplayer tetris game. Applied oop principles and design patterns. Earned 95%+ as CS246 final project.
+    A multiplayer tetris game. Applied oop principles like polymorphism, low coupling, high cohesion and design patterns like decorator, observer, factory patterns. Earned 95%+ as CS246 final project.
     <br />
     </p>
 </div>
